@@ -1,0 +1,104 @@
+luneth:
+  weapon: raid
+  head: tome
+  chest: raid
+  hands: tome
+  legs: tome
+  feet: raid
+  earring: raid
+  neck: tome
+  wrist: raid
+  ring_l: tome
+  ring_r: raid
+
+raven:
+  weapon: raid
+  head: tome
+  chest: raid
+  hands: tome
+  legs: tome
+  feet: raid
+  earring: raid
+  neck: tome
+  wrist: tome
+  ring_l: tome
+  ring_r: raid
+
+fey:
+  weapon: raid
+  head: raid
+  chest: raid
+  hands: tome
+  legs: tome
+  feet: raid
+  earring: raid
+  neck: tome
+  wrist: raid
+  ring_l: other
+  ring_r: raid
+
+duino:
+  weapon: raid
+  head: raid
+  chest: raid
+  hands: tome
+  legs: tome
+  feet: raid
+  earring: raid
+  neck: tome
+  wrist: raid
+  ring_l: other
+  ring_r: raid
+
+vish:
+  weapon: raid
+  head: raid
+  chest: raid
+  hands: tome
+  legs: tome
+  feet: raid
+  earring: raid
+  neck: raid
+  wrist: raid
+  ring_l: tome
+  ring_r: raid
+
+kownt:
+  weapon: raid
+  head: tome
+  chest: raid
+  hands: raid
+  legs: tome
+  feet: tome
+  earring: raid
+  neck: tome
+  wrist: tome
+  ring_l: tome
+  ring_r: raid
+
+aume:
+  weapon: raid
+  head: tome
+  chest: raid
+  hands: raid
+  legs: raid
+  feet: tome
+  earring: raid
+  neck: tome
+  wrist: raid
+  ring_l: tome
+  ring_r: raid
+
+ruffen:
+  weapon: raid
+  head: raid
+  chest: raid
+  hands: raid
+  legs: tome
+  feet: tome
+  earring: tome
+  neck: raid
+  wrist: tome
+  ring_l: tome
+  ring_r: raid
+
